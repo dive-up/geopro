@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
