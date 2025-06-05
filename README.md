@@ -26,3 +26,7 @@ To see the project working, follow the below steps:
     
 
 Thanks for taking time to looking at my code.
+
+![image](https://github.com/user-attachments/assets/a224ad10-343c-49d3-aa43-3fa367b352d4)
+
+The above picture shows what was planned.
